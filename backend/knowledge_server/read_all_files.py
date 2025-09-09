@@ -30,5 +30,5 @@ def read_file_content(file_path):
     return content
 
 if __name__ == '__main__':
-    content = read_file_content("/Users/admin/Downloads/多Agent进行PPT生成.docx")
+    content = read_file_content("/Users/admin/Downloads/New_20250404174515_New_20250404174448_lightrag_5307.txt")
     print(content)
